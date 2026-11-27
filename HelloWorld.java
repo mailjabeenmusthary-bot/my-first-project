@@ -1,6 +1,6 @@
 public class HelloWorld {
   public static void main(String[]args){
-    System.out.prinln("Hello GitHub!");
-     System.out.prinln("My first programming project.");
+    System.out.println("Hello GitHub!");
+     System.out.println("My first programming project.");
   }
 }
